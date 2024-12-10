@@ -3,8 +3,7 @@
  * Name: Egshiglen Enkhbayar
  */
 
-/**
- * in this task, InputUtilitiesV package has been used
+/* in this task, InputUtilitiesV package has been used
  * and new method called askUserForName has been created in the package.
  * Also created another package called NameManipulator and created 3 different
  * ways to manipulate the string (username).

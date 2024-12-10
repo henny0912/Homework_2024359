@@ -1,6 +1,5 @@
-
+//seperate package to execute the name manipulation
 package NameManipulator;
-
 /**
  *
  * @author egshi

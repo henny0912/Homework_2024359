@@ -1,7 +1,4 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
- */
+
 package inpututilities;
 
 import java.util.Scanner;
@@ -19,9 +16,6 @@ import java.util.Scanner;
  * @author kheal
  */
 public class InputUtilitiesV {
-
-    
-    
     /**
      * Ask user to enter some  text - if they enter non-text (like numbers)
      * then ask them again
